@@ -1,0 +1,57 @@
+{
+  "file-modified": "2022-03-04T10:58:02+10:00",
+  "recent-files::internal:document": [{
+    "title": "Marshall_MasterPg",
+    "path": "C:/Users/Ben/Documents/GitHub/SCM_Marshall_RH/contents/assets/masterpages/Marshall_MasterPg.htt",
+    "pinned": false,
+    "time": "Mar 4, 10:31 AM"
+  }, {
+    "title": "default",
+    "path": "C:/Users/Ben/Documents/GitHub/SCM_Marshall_RH/contents/assets/css/default.css",
+    "pinned": false,
+    "time": "Mar 4, 9:49 AM"
+  }, {
+    "title": "book",
+    "path": "C:/Users/Ben/Documents/GitHub/SCM_Marshall_RH/contents/assets/css/book.css",
+    "pinned": false,
+    "time": "Mar 4, 9:49 AM"
+  }, {
+    "title": "book",
+    "path": "C:/Users/Ben/Documents/GitHub/SCM_Marshall_RH/contents/assets/masterpages/book.htt",
+    "pinned": false,
+    "time": "Mar 4, 9:40 AM"
+  }, {
+    "title": "First_Topic",
+    "path": "C:/Users/Ben/Documents/GitHub/SCM_Marshall_RH/contents/About.htm",
+    "pinned": false,
+    "time": "Mar 4, 9:40 AM"
+  }, {
+    "title": "Session",
+    "path": "C:/Users/Ben/Documents/GitHub/SCM_Marshall_RH/contents/Session.htm",
+    "pinned": false,
+    "time": "Mar 3, 1:24 PM"
+  }, {
+    "title": "Login",
+    "path": "C:/Users/Ben/Documents/GitHub/SCM_Marshall_RH/contents/Login.htm",
+    "pinned": false,
+    "time": "Mar 3, 1:24 PM"
+  }, {
+    "title": "Responsive HTML5",
+    "path": "C:/Users/Ben/Documents/GitHub/SCM_Marshall_RH/publish/presets/Responsive HTML5.preset",
+    "pinned": false,
+    "time": "Mar 3, 11:38 AM"
+  }, {
+    "title": "Microsoft HTML Help",
+    "path": "C:/Users/Ben/Documents/GitHub/SCM_Marshall_RH/publish/presets/Microsoft HTML Help.preset",
+    "pinned": false,
+    "time": "Mar 3, 11:36 AM"
+  }],
+  "generate.outputs": {
+    "C:/Users/Ben/Documents/GitHub/SCM_Marshall_RH/publish/presets/Microsoft HTML Help.preset": {
+      "exists": true,
+      "path": "C:/Users/Ben/Documents/My RoboHelp Projects/outputs/SCM_Marshall/Microsoft HTML Help/Default.chm",
+      "time": "2022-03-03T11:36:20+10:00",
+      "logFile": "C:/Users/Ben/AppData/Local/Temp/RHTMP/Microsoft HTML Help.ehtml"
+    }
+  }
+}
